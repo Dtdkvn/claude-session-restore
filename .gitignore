@@ -1,0 +1,7 @@
+# written by sync.py / restore.py next to themselves; they hold session titles,
+# account ids and local paths
+session-sync.log*
+backup-done.txt
+session-sync.lock
+*.lock
+__pycache__/
